@@ -12,7 +12,7 @@ python3寫的ssh暴力破解嘗試登入程式
 
 kddchuang 偉恩
 
-##先安裝套件
+## 先安裝套件
 sudo apt install python-pip
 sudo pip install pexpect
 
